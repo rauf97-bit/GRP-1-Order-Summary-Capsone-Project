@@ -1,6 +1,7 @@
 .main_wrapper{
-    border-style: solid;
-    margin: 300px 300px 300px 300px ;
+    box-shadow: 3px 1px 5px gray;
+    width: 40vw;
+    margin: 20vh auto;
     border-radius: 30px;
-    padding: 150px 150px 150px 150px;
+    padding: 0 50px;
 }
