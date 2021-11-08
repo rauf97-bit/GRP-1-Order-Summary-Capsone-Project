@@ -1,7 +1,30 @@
-.main_wrapper{
-    box-shadow: 3px 1px 5px gray;
-    width: 40vw;
-    margin: 20vh auto;
-    border-radius: 30px;
-    padding: 0 50px;
+head,html{
+    background-image: url("./images/pattern-background-desktop.svg");
+    background-color: grey;
+    background-repeat: no-repeat;
+    background-size: auto;
 }
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 31.4%;
+    border-radius: 5px;
+    position: relative;
+    left: 370px;
+    top: 140px;
+    bottom: 100px;
+    background-color: whitesmoke;
+
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  img {
+    border-radius: 5px 5px 0 0;
+  }
+  
+  .container {
+    padding: 50px 90px;
+    background-color:whitesmoke;
+  }
